@@ -1,2 +1,2 @@
 # SAMS
-Student Absenteeism Management System
+Student Absenteeism Management System for Software Development Project
